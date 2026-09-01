@@ -1,4 +1,4 @@
-# 收藏功能明明做過了，為什麼我又重做一次？把 Function Calling 實驗變成想去清單
+# LINE Bot 為什麼不記得「第二間」？我把收藏功能優化成真正的想去清單
 
 之前我其實做過收藏功能。在 `line-cafe-action-agent` 版本中，我曾用 Gemini Function Calling 實作：
 
