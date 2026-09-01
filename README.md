@@ -89,6 +89,10 @@ npm test
 
 CI 會在 push 與 pull request 自動執行相同檢查。
 
+## Rich Menu
+
+`assets/rich-menu-v3-wishlist.json` 與 `assets/rich-menu-v3-wishlist.png` 是目前五格選單的設定與圖片。下排中央的「收藏清單」會送出「我的想去清單」，直接進入 wishlist 流程。
+
 ## 建立 Cloud Tasks queue
 
 ```bash
